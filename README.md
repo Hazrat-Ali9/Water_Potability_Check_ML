@@ -2,7 +2,7 @@
 
 # 👹 Software Engineer || CEO and Founder HMSofttecH Innovation 
 
-# 🎳 Water Potability Check (ML)
+# 🎳 Water Potability Check (ML) 🥰
 
 This project predicts the **potability of Water** using machine learning models.  
 After experimenting with multiple algorithms (Logistic Regression, Random Forest, Gradient Boosting, KNN, etc.), the final selected model was chosen based on accuracy, precision/recall, and overall robustness.
