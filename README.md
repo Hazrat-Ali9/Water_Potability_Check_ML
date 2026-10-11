@@ -1,6 +1,6 @@
 # 🤡 Hazrat Ali 
 
-# 👹 Software Engineer || CEO and Founder HMSofttecH Innovation 
+# 👹 Software Engineer || CEO and Founder HMSofttecH nnovation 
 
 # 🎳 Water Potability Check (ML) 🥰
 
